@@ -23,7 +23,7 @@ public final class FastStatsIntegration {
             return;
         }
 
-        String token = System.getProperty(TOKEN_PROPERTY, "").trim();
+        String token = "fe4844a783b1df40044393312661ef31";
 
         if (token.isEmpty()) {
             Constants.LOG.warn(
