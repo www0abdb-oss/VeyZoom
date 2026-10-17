@@ -5,16 +5,13 @@ plugins {
 }
 
 repositories {
-  maven {
-    name "faststatsReleases"
-    url "https://repo.faststats.dev/releases"
-  }
+
 }
 
 
 
 dependencies {
-      implementation "dev.faststats.metrics:neoforge:0.30.2"
+
 }
 
 neoForge {

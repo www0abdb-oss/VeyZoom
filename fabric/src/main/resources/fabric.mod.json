@@ -13,11 +13,12 @@
   "license": "${license}",
   "icon": "${mod_id}.png",
   "environment": "*",
-  "entrypoints": {
+"entrypoints": {
     "main": [
-      "www0abd.oss.veyzoom.VeyZoom",
-      "www0abd.oss.veyzoom.FastStatsIntegration"
+      "www0abd.oss.veyzoom.VeyZoom"
     ],
+
+
     "client": [
       "www0abd.oss.veyzoom.VeyZoomClient"
     ]
